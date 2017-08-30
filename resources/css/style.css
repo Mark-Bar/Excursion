@@ -1,3 +1,58 @@
+*{
+  font-family: Verdana;
+}
+
 h1{
-  color: blue;
+  color: white;
+  font-size: 50px;
+  text-align: Center;
+  font-weight: normal;
+}
+
+body{
+  background-color: black;
+}
+
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: Center;
+}
+
+.video{
+   width: 21%;
+   height: 720px;
+   background-color: black;
+   margin-left: 750px;
+}
+
+h2{
+  color: white;
+  font-size: 42px;
+  text-align: Center;
+  font-weight: 300;
+}
+
+.desc{
+  color: gray;
+  font-size: 21px;
+  text-align: Center;
+}
+
+.centerImg{
+  margin-left: 500px;
+  padding-right: 500px;
+}
+
+.centerIcon{
+  margin-left: 920px;
+  padding-right: 500px;
+  margin-top: 20px;
+}
+
+.copyRight{
+  color: gray;
+  text-align: right;
 }
